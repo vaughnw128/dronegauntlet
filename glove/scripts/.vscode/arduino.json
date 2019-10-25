@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM14",
+    "sketch": "arduino\\i2cdevlibver\\breadboardtest.ino"
+}
